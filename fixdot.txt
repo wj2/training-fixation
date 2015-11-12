@@ -1,0 +1,10 @@
+Condition	Frequency	Block		Timing File		TaskObject#1		TaskObject#2		TaskObject#3	TaskObject#4	
+1	1			1		fixdot			crc(0.2,[1 1 1],1,4,8)
+2	1			1		fixdot			crc(0.2,[1 1 1],1,2,-4)
+3	1			1		fixdot			crc(0.2,[1 1 1],1,-3,4)
+4	1			1		fixdot			crc(0.2,[1 1 1],1,1,10)
+5	1			1		fixdot			crc(0.2,[1 1 1],1,10,-3)
+6	1			1		fixdot			crc(0.2,[1 1 1],1,-2,-1)
+7	1			1		fixdot			crc(0.2,[1 1 1],1,-10,2)
+8	1			1		fixdot			crc(0.2,[1 1 1],1,-4,-10)
+9	1			1		fixdot			crc(0.2,[1 1 1],1,0,0)
